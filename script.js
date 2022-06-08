@@ -14,7 +14,7 @@ var love = setInterval(function(){
 var i = 0;
 var txt1 = "Olá ZILDA ❤️.....!  <<              Quero dizer algo muito especial para você... <<< " +
     "> Quando eu cheguei aqui pela primeira vez, <<" +
-    "  2 pessoas vieram me acolher ... <<< uma delas foi o MARCÃO ❤ .  <<                 a outra, foi você, me oferecendo café....! << Os dias passaram ... << te conheci  << ...te admirei << e me apaixonei por sua amizade!  >                   Sua energia é forte, << tem luz, << traz alegria, << paz e conforto. .....!           > Obrigada Zilda << por me fazer uma pessoa melhor << sou imensamente grata por ter você!!!" +
+    "  2 pessoas vieram me acolher ... <<< uma delas foi o MARCÃO ❤ .  <<                 a outra, foi você, me oferecendo café....! << Os dias passaram ... << te conheci  << ...te admirei << e me apaixonei por sua amizade!  <<                   >>Sua energia é forte, << tem luz, << traz alegria, << paz e conforto. .....!           > Obrigada Zilda << por me fazer uma pessoa melhor << sou imensamente grata por ter você!!!" +
     "< COM CARINHO   <<<<< MONICA ❤️!!!!                                                             >TE AMO  ZILDA ❤                   <<<< Ummmmmmmmmmmmmm 😘";
 var speed = 150;
 typeWriter();
