@@ -59,15 +59,15 @@ html,body{
   border-radius:100%;
 }
 
-/*@keyframes love {*/
-/*  0%{top:110%}*/
-/*}*/
-/*@-webkit-keyframes love {*/
-/*  0%{top:110%}*/
-/*}*/
-/*@-moz-keyframes love {*/
-/*  0%{top:110%}*/
-/*}*/
-/*@-ms-keyframes love {*/
-/*  0%{top:110%}*/
-/*}*/
+@keyframes love {
+  0%{top:110%}
+}
+@-webkit-keyframes love {
+  0%{top:110%}
+}
+@-moz-keyframes love {
+  0%{top:110%}
+}
+@-ms-keyframes love {
+  0%{top:110%}
+}
